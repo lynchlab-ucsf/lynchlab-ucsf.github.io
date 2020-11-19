@@ -1,9 +1,6 @@
----
-title: "ITS2_ProcessingPipeline"
-author: "Germaine Yong"
-date: "November 18, 2020"
-output: html_document
----
+## ITS2_ProcessingPipeline
+### Germaine Yong
+### November 18, 2020
 
 This workflow processes Miseq raw sequence data into a non-normalized ITS2 operational taxonomic unit (OTU) table for further downstream analyses. Taxanomy is assigned to the output ITS2 OTUs using the UNITE database. Note that samples were processed and analyzed on lynchserver2; feel free to adapt to DADA2's ITS2 processing pipeline instead which is newer: https://benjjneb.github.io/dada2/ITS_workflow.html
 
