@@ -2,6 +2,8 @@
 
 Thank you for visiting this site! Below are the current versions of the analysis pipelines available from our group.
 
+To sign up for office hours with Katie, please use this [link](https://airtable.com/shr0zmHhDb1JqmpVt).
+
 ## Current Pipeline Versions
 
 [16S Processing & Data Analysis Document](https://lynchlab-ucsf.github.io/docs/16s_processing_pipeline_v1.1.html)
@@ -15,4 +17,4 @@ Thank you for visiting this site! Below are the current versions of the analysis
 
 [16S - Version 0](https://lynchlab-ucsf.github.io/docs/16s_processing_pipeline_06Nov20.html)
 
-Last updated on: 20 Nov 2020
+Last updated on: 18 Dec 2020
