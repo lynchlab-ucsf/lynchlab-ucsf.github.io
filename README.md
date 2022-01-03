@@ -10,7 +10,7 @@ To sign up for office hours with Katie, please use this [link](https://airtable.
 
 To report an issue (bug, odd behavior) with any script, please fill out [this form](https://airtable.com/shrhBdwkZJAQLJ77p), and current status of your reported issue can be viewed [here](https://airtable.com/shr0v2WzajMO9Q2Li).
 
-## Current Pipelines
+## Current Documentation and Support Links
 
 [16S Processing (from raw files to ASVs), version 2.0](https://lynchlab-ucsf.github.io/docs/16s_processing_pipeline_v2.0.html)
 
@@ -21,6 +21,8 @@ To report an issue (bug, odd behavior) with any script, please fill out [this fo
 [Reads-based Metagenomics](https://github.com/lynchlab-ucsf/metagenomics-pipeline)
 
 [Lab Script Repository](https://github.com/lynchlab-ucsf/lab-code)
+
+[ENA Sequence Read Archive Steps](https://lynchlab-ucsf.github.io/docs/ENA_Upload_Steps.html)
 
 Scripts are also available on wynton (/wynton/group/lynch/kmccauley/lab-code) and LynchServer2 (/data/Users/kmccauley/LabCode). Updates are made and transferred to both locations, so versions should be consistent. You can also visit github directly at: https://github.com/lynchlab-ucsf/lab-code
 
