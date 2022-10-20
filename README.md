@@ -24,6 +24,8 @@ To report an issue (bug, odd behavior) with any script, please fill out [this fo
 
 [ENA Sequence Read Archive Steps](https://lynchlab-ucsf.github.io/docs/ENA_Upload_Steps.html)
 
+[Data Storage SOP](https://lynchlab-ucsf.gihub.io/docs/DataStorageSOP.html)
+
 Scripts are also available on wynton (/wynton/group/lynch/kmccauley/lab-code) and LynchServer2 (/data/Users/kmccauley/LabCode). Updates are made and transferred to both locations, so versions should be consistent. You can also visit github directly at: https://github.com/lynchlab-ucsf/lab-code
 
 ## Example Mapping File
